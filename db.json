@@ -5,7 +5,7 @@
       "name": "Saia Verde",
       "description": "Botões encapados e ombros a mostra.",
       "price": "R$ 999,99",
-      "image": "images/1.jpg",
+      "image": "https://github.com/sergioandrade/poc-zafira-catalog/blob/master/images/1.jpg",
       "sizes": [
         {
           "variant": "P",
@@ -86,7 +86,7 @@
       "name": "Saia Preta",
       "description": "Saia de couro na cor preta, com comprimento midi e detalhes em telinha transparente.",
       "price": "R$ 999,99",
-      "image": "images/2.jpg",
+      "image": "https://github.com/sergioandrade/poc-zafira-catalog/blob/master/images/1.jpg",
       "sizes": [
         {
           "variant": "P",
