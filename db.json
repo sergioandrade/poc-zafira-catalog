@@ -5,7 +5,7 @@
       "name": "Saia Verde",
       "description": "Botões encapados e ombros a mostra.",
       "price": "R$ 999,99",
-      "image": "https://github.com/sergioandrade/poc-zafira-catalog/blob/master/images/1.jpg",
+      "image": "https://raw.githubusercontent.com/sergioandrade/poc-zafira-catalog/master/images/1.jpg",
       "sizes": [
         {
           "variant": "P",
@@ -86,7 +86,7 @@
       "name": "Saia Preta",
       "description": "Saia de couro na cor preta, com comprimento midi e detalhes em telinha transparente.",
       "price": "R$ 999,99",
-      "image": "https://github.com/sergioandrade/poc-zafira-catalog/blob/master/images/1.jpg",
+      "image": "https://raw.githubusercontent.com/sergioandrade/poc-zafira-catalog/master/images/2.jpg",
       "sizes": [
         {
           "variant": "P",
@@ -161,6 +161,168 @@
           "stock": 0
         }
       ]
-    }
+    },
+    {
+      "id": 3,
+      "name": "calça moleton cinza mescla",
+      "description": "tecido moleton super Comfy, peluciado",
+      "price": "R$ 999,99",
+      "image": "https://raw.githubusercontent.com/sergioandrade/poc-zafira-catalog/master/images/3.jpg",
+      "sizes": [
+        {
+          "variant": "P",
+          "stock": 0
+        },
+        {
+          "variant": "M",
+          "stock": 1
+        },
+        {
+          "variant": "G",
+          "stock": 0
+        },
+        {
+          "variant": "GG",
+          "stock": 0
+        },
+        {
+          "variant": "XG",
+          "stock": 0
+        },
+        {
+          "variant": "G1",
+          "stock": 0
+        },
+        {
+          "variant": "G2",
+          "stock": 0
+        },
+        {
+          "variant": "G3",
+          "stock": 0
+        },
+        {
+          "variant": "G4",
+          "stock": 0
+        },
+        {
+          "variant": "38",
+          "stock": 0
+        },
+        {
+          "variant": "40",
+          "stock": 0
+        },
+        {
+          "variant": "42",
+          "stock": 0
+        },
+        {
+          "variant": "44",
+          "stock": 0
+        },
+        {
+          "variant": "46",
+          "stock": 0
+        },
+        {
+          "variant": "48",
+          "stock": 0
+        },
+        {
+          "variant": "50",
+          "stock": 0
+        },
+        {
+          "variant": "52",
+          "stock": 0
+        },
+        {
+          "variant": "54",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "calça moleton comfy vinho",
+      "description": "tecido moleton super Comfy, peluciado",
+      "price": "R$ 999,99",
+      "image": "https://raw.githubusercontent.com/sergioandrade/poc-zafira-catalog/master/images/4.jpg",
+      "sizes": [
+        {
+          "variant": "P",
+          "stock": 1
+        },
+        {
+          "variant": "M",
+          "stock": 1
+        },
+        {
+          "variant": "G",
+          "stock": 0
+        },
+        {
+          "variant": "GG",
+          "stock": 0
+        },
+        {
+          "variant": "XG",
+          "stock": 0
+        },
+        {
+          "variant": "G1",
+          "stock": 0
+        },
+        {
+          "variant": "G2",
+          "stock": 0
+        },
+        {
+          "variant": "G3",
+          "stock": 0
+        },
+        {
+          "variant": "G4",
+          "stock": 0
+        },
+        {
+          "variant": "38",
+          "stock": 0
+        },
+        {
+          "variant": "40",
+          "stock": 0
+        },
+        {
+          "variant": "42",
+          "stock": 0
+        },
+        {
+          "variant": "44",
+          "stock": 0
+        },
+        {
+          "variant": "46",
+          "stock": 0
+        },
+        {
+          "variant": "48",
+          "stock": 0
+        },
+        {
+          "variant": "50",
+          "stock": 0
+        },
+        {
+          "variant": "52",
+          "stock": 0
+        },
+        {
+          "variant": "54",
+          "stock": 0
+        }
+      ]
+    },
   ]
 }
